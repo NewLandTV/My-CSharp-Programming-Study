@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "정수와 연산자", "정수와 연산자\정수와 연산자.csproj", "{C6428380-0817-4974-ADF5-B4E3CC59584C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6428380-0817-4974-ADF5-B4E3CC59584C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6428380-0817-4974-ADF5-B4E3CC59584C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6428380-0817-4974-ADF5-B4E3CC59584C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6428380-0817-4974-ADF5-B4E3CC59584C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F997219A-2045-4D92-8E7F-0DD2411A79DD}
+	EndGlobalSection
+EndGlobal

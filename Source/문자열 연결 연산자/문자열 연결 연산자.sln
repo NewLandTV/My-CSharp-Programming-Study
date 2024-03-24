@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "문자열 연결 연산자", "문자열 연결 연산자\문자열 연결 연산자.csproj", "{FD930ED3-43B2-442A-A3F9-8426E6E52CFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD930ED3-43B2-442A-A3F9-8426E6E52CFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD930ED3-43B2-442A-A3F9-8426E6E52CFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD930ED3-43B2-442A-A3F9-8426E6E52CFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD930ED3-43B2-442A-A3F9-8426E6E52CFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E46F4365-9AD3-4D72-9657-28C4899EAE61}
+	EndGlobalSection
+EndGlobal

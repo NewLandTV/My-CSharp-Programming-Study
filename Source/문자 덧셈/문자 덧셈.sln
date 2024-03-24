@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "문자 덧셈", "문자 덧셈\문자 덧셈.csproj", "{3BDED878-2A12-4A71-95EB-9379381861DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BDED878-2A12-4A71-95EB-9379381861DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BDED878-2A12-4A71-95EB-9379381861DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BDED878-2A12-4A71-95EB-9379381861DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BDED878-2A12-4A71-95EB-9379381861DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7996EE3-55DB-49C0-85DE-E6C26E4B4F92}
+	EndGlobalSection
+EndGlobal
